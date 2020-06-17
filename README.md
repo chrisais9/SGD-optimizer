@@ -30,7 +30,7 @@ Visualizing optimization with rosenbrock function using stochastic gradient desc
 - δL/δW: 기울기(미분값)
 
 이라 할때 다음 공식을 이용하면 SGD를 구현할수 있다.
-![](./figure/sgd.png)
+<center><img src="./figure/sgd.png"></center>
 
 
 ## 프로젝트 구조 설명
